@@ -1,0 +1,52 @@
+{
+    "node_modules\\@broxus\\tip3\\contracts\\TokenRoot.tsol": {
+        "modificationTime": 1746048361659
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\TokenWallet.tsol": {
+        "modificationTime": 1746034955799
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\abstract\\TokenRootTransferableOwnershipBase.tsol": {
+        "modificationTime": 1746034955779
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\abstract\\TokenRootBurnPausableBase.tsol": {
+        "modificationTime": 1746034955648
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\abstract\\TokenRootBurnableByRootBase.tsol": {
+        "modificationTime": 1746034955648
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\abstract\\TokenRootDisableableMintBase.tsol": {
+        "modificationTime": 1746034955707
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\libraries\\TokenErrors.tsol": {
+        "modificationTime": 1746034955499
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\libraries\\TokenMsgFlag.tsol": {
+        "modificationTime": 1746034955522
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\abstract\\TokenWalletBurnableByRootBase.tsol": {
+        "modificationTime": 1746034955838
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\abstract\\TokenWalletBurnableBase.tsol": {
+        "modificationTime": 1746034955831
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\abstract\\TokenWalletDestroyableBase.tsol": {
+        "modificationTime": 1746034955855
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\libraries\\TokenGas.tsol": {
+        "modificationTime": 1746034955515
+    },
+    "node_modules\\@broxus\\tip3\\contracts\\interfaces\\IVersioned.tsol": {
+        "modificationTime": 1746034955417
+    },
+    "compilerSettings": {
+        "externalContracts": {
+            "node_modules/@broxus/tip3/contracts": [
+                "TokenRoot",
+                "TokenWallet"
+            ]
+        },
+        "compilerPath": "C:\\Users\\Hp\\AppData\\Local\\locklift-nodejs\\Cache\\compiler\\0_62_0\\solc_0_62_0_win32.exe",
+        "linkerPath": "C:\\Users\\Hp\\AppData\\Local\\locklift-nodejs\\Cache\\linker\\0_15_48\\tvm_linker_0_15_48_win32.exe",
+        "linkerLibPath": "C:\\Users\\Hp\\AppData\\Local\\locklift-nodejs\\Cache\\lib\\0_62_0\\stdlib_sol_0_62_0.tvm"
+    }
+}
